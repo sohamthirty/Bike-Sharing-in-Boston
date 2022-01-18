@@ -33,4 +33,5 @@ bluebikes_tripdata_2020.csv
 - The count of Bike-Rides has decreased significantly with most decrease in the month of April when the Pandemic was at its peak in the 1st wave.
 
 ## Mini Poster:
+![SohamShinde_MiniPoster](https://user-images.githubusercontent.com/56295513/149873721-cc44645f-fd45-4c53-bb11-ff669d863ff9.PNG)
 

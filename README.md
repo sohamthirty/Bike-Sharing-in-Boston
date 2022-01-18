@@ -1,7 +1,7 @@
 # Bike-Sharing-in-Boston
 
 ## Problem Statement: 
-Perform Exploratory Data Analysis on Bike Sharing in Boston
+Perform Exploratory Data Analysis on Bike Sharing in Boston using R.
 
 ## Dataset: 
 bluebikes_tripdata_2019.csv
